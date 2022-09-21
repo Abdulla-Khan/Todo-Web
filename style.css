@@ -1,0 +1,14 @@
+* {
+    margin-top: 20px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: decimal-leading-zero;
+}
+
+.del-btn {
+
+    margin-left: 20px;
+    /* background-color: red; */
+}
